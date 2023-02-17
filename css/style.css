@@ -6,10 +6,8 @@ nav {
   display: flex;
   justify-content: center;
 }
-ul {
+
+.nav-bar {
   display: flex;
-}
-li {
-  display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
